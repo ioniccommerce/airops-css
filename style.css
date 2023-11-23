@@ -1119,8 +1119,10 @@ video {
   width: 1.5rem
 }
 
+
+/* Owen dumb hack */
 .ao-w-\[400px\] {
-  width: 300px
+  width: 350px
 }
 
 .ao-w-fit {
