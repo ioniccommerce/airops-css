@@ -1091,7 +1091,12 @@ video {
 
 /* This is Owen's stupid hack */
 .ao-h-\[700px\] {
-  height: 70vh;
+  height: 75vh;
+  background-color: #FAFAFA;
+}
+
+.ao-h-\[740px\] {
+  height: 75vh;
   background-color: #FAFAFA;
 }
 
